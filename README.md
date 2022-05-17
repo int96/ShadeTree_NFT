@@ -1,8 +1,9 @@
-# Shadetree Presents ::  a Last of the Killer Birds production of art :: <br>
-# Alchemical Artistry :: - Shadow Caster - :: <br>
-# Art By :: Sanford Daniel Seevers :: <br>
-# Idea and direction :: RobEnoch.com ::
+# Shadetree Presents ::  a production of art :: <br>
+# Done By :: this github community
+# Art By :: This github community :: <br>
+# 
 
+[[æ] :: Sanford Daniel Seevers]<br>
 Ever thing below is what I used to produce all my art. <br>
 Æ Software <br>
 æ Photoshop cs5-2022 <br>
@@ -10,8 +11,18 @@ Ever thing below is what I used to produce all my art. <br>
 æ Blender 3.0+ <br>
 æ Alchemy beta 008 <br>
 æ  <br>
-Æ Code
+Æ Code <br>
 æ Hashlips art engine <br>
 
 # To anyone that's ever had my back
 # Thank you!! You were never forgotten
+
+[[name] :: realname here] <br>
+Ever thing below is what I used to produce all my art. <br>
+ART INFO CAN GO HERE<br>
+ART INFO CAN GO HERE<br>
+ART INFO CAN GO HERE<br>
+ART INFO CAN GO HERE<br>
+
+# Anyone you would like to thank here
+## Anyone you would like to thank here

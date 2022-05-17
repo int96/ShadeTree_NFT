@@ -2,6 +2,16 @@
 # Done By :: this github community
 # Art By :: This github community :: <br>
 # 
+#
+Todo ::<br>
+[o] figure out how to write a better readme <br>
+[x] art aspect 1080x1080 pixels <br>
+[o] figureing out how many layers we want to do or need <br>
+    [o] background <br>
+[o] layout how the readme should go... I Dont Know what <br> 
+    I'm entirely doing here!!p <br>
+
+
 
 [[æ] :: Sanford Daniel Seevers]<br>
 Ever thing below is what I used to produce all my art. <br>

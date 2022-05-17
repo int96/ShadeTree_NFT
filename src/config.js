@@ -84,7 +84,7 @@ const layerConfigurations = [
     name: "Background2",
     options: {
       blend: MODE.difference,
-      opacity: .3,
+      opacity: 1.0,
       displayName: "BG2DIFF.3OPC",
     },
   },

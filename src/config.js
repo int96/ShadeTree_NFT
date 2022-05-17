@@ -80,6 +80,14 @@ const layerConfigurations = [
       displayName: "BGDIFF.3OPC",
     },
   },
+  {
+    name: "Background2",
+    options: {
+      blend: MODE.difference,
+      opacity: .3,
+      displayName: "BG2DIFF.3OPC",
+    },
+  },
   ////////////////////////////////////////////////////////////////////////////////////////////////////////////
   // BLOBS ?????
   {

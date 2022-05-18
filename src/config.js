@@ -98,6 +98,14 @@ const layerConfigurations = [
       displayName: "blobs:difference",
     },
   },
+  {
+    name: "blobs",
+    options: {
+      blend: MODE.multiply,
+      opacity: .3,
+      displayName: "blobs:difference",
+    },
+  },
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Signatures 
